@@ -1,25 +1,25 @@
-baseURL = "http://nikolinden.github.io/"
+baseURL = "http://nikolinden.netlify.com/"
 languageCode = "ru-RU"
-title = "New Hugo Site"
+title = "Фестиваль Николин день"
 paginate = 5
 Copyright = "All rights reserved - 2017-2019"
 canonifyurls = true
 
 [params]
-  description = "Фестиваль Николин день"
-  metadescription = "Фестиваль творчества в честь праздника Николы Вешнего"
+  description = "Фестиваль творчества в честь праздника Николы Вешнего"
+  # metadescription = "Фестиваль творчества в честь праздника Николы Вешнего"
   cover = "images/cover.jpg"
   author = "Клуб Арт'Эриа"
   authorlocation = "Москва, Россия"
   authorwebsite = "http://clubarteria.ru"
   authorbio= "ПАКИ"
   logo = "images/logo.png"
-  googleAnalyticsUserID = ""
+  # googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "nikolinden"
+  # githubName = "nikolinden"
   twitterName = "clubarteria"
-  # facebookName = ""
+  facebookName = "clubarteria"
   # codepenName = ""
   # linkedinName = ""
   # stackoverflowId = ""

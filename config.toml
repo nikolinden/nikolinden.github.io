@@ -1,4 +1,4 @@
-baseURL = "http://nikolinden.netlify.com/"
+baseURL = "https://nikolinden.netlify.com/"
 languageCode = "ru-RU"
 title = "Фестиваль Николин день"
 paginate = 5

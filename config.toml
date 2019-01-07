@@ -1,0 +1,42 @@
+baseURL = "http://nikolinden.github.io/"
+languageCode = "ru-RU"
+title = "New Hugo Site"
+paginate = 5
+Copyright = "All rights reserved - 2017-2019"
+canonifyurls = true
+
+[params]
+  description = "Фестиваль Николин день"
+  metadescription = "Фестиваль творчества в честь праздника Николы Вешнего"
+  cover = "images/cover.jpg"
+  author = "Клуб Арт'Эриа"
+  authorlocation = "Москва, Россия"
+  authorwebsite = "http://clubarteria.ru"
+  authorbio= "ПАКИ"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "nikolinden"
+  twitterName = "clubarteria"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "clubarteria"
+	

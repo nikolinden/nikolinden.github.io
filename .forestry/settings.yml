@@ -1,0 +1,112 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/svjatitel-nikolaj-mirlikijskij-chudotvorec
+  label: Svjatitel nikolaj mirlikijskij chudotvorec
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kontakty
+  label: Kontakty
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/volontjoram
+  label: Volontjoram
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/master-klass
+  label: Master klass
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lidija-timoshenko
+  label: Lidija timoshenko
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/festival-2018
+  label: Festival 2018
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inna-ivanova
+  label: Inna ivanova
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/katja-medvedeva
+  label: Katja medvedeva
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wp-content
+  label: Wp content
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vystavka
+  label: Vystavka
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/programma-2017-goda
+  label: Programma 2017 goda
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/programma
+  label: Programma
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ekaterina-grigoreva-shilling
+  label: Ekaterina grigoreva shilling
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/post
+  label: Post
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/festival-2017
+  label: Festival 2017
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/organizatory
+  label: Organizatory
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/images
+  label: Images
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/uchastniki
+  label: Uchastniki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/history
+  label: History
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+version: '0.53'

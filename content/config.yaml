@@ -1,3 +1,7 @@
-url: http://nikolinden.github.io
+url: http://nikolinden.netlify.com
 name: 'Фестиваль &quot;Николин День&quot;'
-description:
+description: 'Фестиваль творчества в честь праздника Николы Вешнего'
+
+# taxonomies:
+#   tag: "tags"
+  

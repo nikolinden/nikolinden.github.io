@@ -1,4 +1,4 @@
-baseURL = "http://nikolinden.netlify.com/"
+baseURL = "https://nikolinden.netlify.com/"
 languageCode = "ru-RU"
 title = "Фестиваль Николин день"
 paginate = 5
@@ -7,13 +7,13 @@ canonifyurls = true
 
 [params]
   description = "Фестиваль творчества в честь праздника Николы Вешнего"
-  # metadescription = "Фестиваль творчества в честь праздника Николы Вешнего"
+  # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/cover.jpg"
   author = "Клуб Арт'Эриа"
   authorlocation = "Москва, Россия"
   authorwebsite = "http://clubarteria.ru"
   authorbio= "ПАКИ"
-  logo = "images/logo.png"
+  # logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
@@ -42,4 +42,32 @@ canonifyurls = true
 	
   [taxonomies]
     tag = "tags"
+	
+	
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "getting started"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
+
+  [[menu.social]]
+
+    pre = "<i class='fa fa-vk'></i>"
+
+    url = "https://vk.com"
+
+    identifier = "vkontakte"
+
+	
+  theme="casper"
   

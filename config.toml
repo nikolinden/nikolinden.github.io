@@ -17,8 +17,8 @@ canonifyurls = true
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "nikolinden"
-  twitterName = "clubarteria"
+  # githubName = "nikolinden"
+  # twitterName = "clubarteria"
   # facebookName = ""
   # codepenName = ""
   # linkedinName = ""
@@ -47,19 +47,62 @@ canonifyurls = true
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "about hugo"
+    identifier = "fest"
+    name = "Фестиваль"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    url = "/o-festivale-2/"
     weight = -110
 
   [[menu.main]]
-    name = "getting started"
+    name = "О празднике"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
+    url = "/svjatitel-nikolaj-mirlikijskij-chudotvorec/"
     weight = -100
 
+  [[menu.main]]
+    identifier = "prog"
+    name = "Программа"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/programma/"
+    weight = -90
+
+  [[menu.main]]
+    identifier = "uchastniki"
+    name = "Участники"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/uchastniki/"
+    weight = -80
+
+  [[menu.main]]
+    identifier = "prog"
+    name = "Устроители"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/programma/"
+    weight = -70
+
+  [[menu.main]]
+    identifier = "volontjoram"
+    name = "Помощь"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/volontjoram/"
+    weight = -60
+
+  [[menu.main]]
+    identifier = "kontakty"
+    name = "Контакты"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/kontakty/"
+    weight = -50
+
+  [[menu.main]]
+    identifier = "history"
+    name = "История"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/history/"
+    weight = -40
+
+	
   [[menu.social]]
 
     pre = "<i class='fa fa-vk'></i>"

@@ -4,6 +4,8 @@ title = "Фестиваль Николин день"
 paginate = 5
 Copyright = "All rights reserved - 2017-2019"
 canonifyurls = true
+	
+  theme = "casper"
 
 [params]
   description = "Фестиваль творчества в честь праздника Николы Вешнего"
@@ -51,35 +53,35 @@ canonifyurls = true
     name = "Фестиваль"
     pre = "<i class='fa fa-heart'></i>"
     url = "/o-festivale-2/"
-    weight = -110
+    weight = -10
 
   [[menu.main]]
     name = "О празднике"
-    post = "<span class='alert'>New!</span>"
+  #  post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/svjatitel-nikolaj-mirlikijskij-chudotvorec/"
-    weight = -100
+    weight = -20
 
   [[menu.main]]
     identifier = "prog"
     name = "Программа"
     pre = "<i class='fa fa-heart'></i>"
     url = "/programma/"
-    weight = -90
+    weight = -30
 
   [[menu.main]]
     identifier = "uchastniki"
     name = "Участники"
     pre = "<i class='fa fa-heart'></i>"
     url = "/uchastniki/"
-    weight = -80
+    weight = -40
 
   [[menu.main]]
     identifier = "prog"
     name = "Устроители"
     pre = "<i class='fa fa-heart'></i>"
     url = "/programma/"
-    weight = -70
+    weight = -50
 
   [[menu.main]]
     identifier = "volontjoram"
@@ -93,14 +95,14 @@ canonifyurls = true
     name = "Контакты"
     pre = "<i class='fa fa-heart'></i>"
     url = "/kontakty/"
-    weight = -50
+    weight = -70
 
   [[menu.main]]
     identifier = "history"
     name = "История"
     pre = "<i class='fa fa-heart'></i>"
     url = "/history/"
-    weight = -40
+    weight = -80
 
 	
   [[menu.social]]
@@ -110,7 +112,4 @@ canonifyurls = true
     url = "https://vk.com"
 
     identifier = "vkontakte"
-
-	
-  theme="casper"
   

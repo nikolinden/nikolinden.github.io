@@ -80,7 +80,7 @@ canonifyurls = true
     identifier = "prog"
     name = "Устроители"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/programma/"
+    url = "/organizatory/"
     weight = -50
 
   [[menu.main]]

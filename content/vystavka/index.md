@@ -35,13 +35,12 @@ date: 2017-04-22 23:54:40 +0000
 <p style="text-align: center;">
 ![](/images/Katja-Medvedeva.jpg)
 
-</p>
+Катя Медведева</p>
 
 <p style="text-align: center;">
 ![](/images/Inna-Ivanova.jpg)
 
-Инна Иванова</a>
-</p>
+Инна Иванова</p>
 
 Юрий Рыжик
 

@@ -5,6 +5,6 @@ type: page
 date: 2017-05-08 23:30:49 +0000
 
 ---
-![](/uploads/Katja-Grigoreva.jpg)
+![](/images/Katja-Grigoreva.jpg)
 
 Екатерина Григорьева-Шиллинг (1928-2010 г.г.)

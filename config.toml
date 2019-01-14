@@ -1,112 +1,74 @@
-baseURL = "https://nikolinden.netlify.com/"
-languageCode = "ru-RU"
-title = "Фестиваль Николин день"
-paginate = 5
 Copyright = "All rights reserved - 2017-2019"
+baseURL = "https://nikolinden.netlify.com/"
 canonifyurls = true
-	
-  theme = "casper"
-
+languageCode = "ru-RU"
+paginate = 5
+theme = "casper"
+title = "Фестиваль Николин день"
+[[menu.main]]
+identifier = "fest"
+name = "Фестиваль"
+pre = "<i class='fa fa-heart'></i>"
+url = "/o-festivale-2/"
+weight = 1
+[[menu.main]]
+identifier = "prog"
+name = "Устроители"
+pre = "<i class='fa fa-heart'></i>"
+url = "/organizatory/"
+weight = 6
+[[menu.main]]
+identifier = "history"
+name = "История"
+pre = "<i class='fa fa-heart'></i>"
+url = "/history/"
+weight = 3
+[[menu.main]]
+identifier = "kontakty"
+name = "Контакты"
+pre = "<i class='fa fa-heart'></i>"
+url = "/kontakty/"
+weight = 8
+[[menu.main]]
+identifier = "uchastniki"
+name = "Участники"
+pre = "<i class='fa fa-heart'></i>"
+url = "/uchastniki/"
+weight = 5
+[[menu.main]]
+identifier = "prog"
+name = "Программа"
+pre = "<i class='fa fa-heart'></i>"
+url = "/programma/"
+weight = 4
+[[menu.main]]
+name = "О празднике"
+pre = "<i class='fa fa-road'></i>"
+url = "/svjatitel-nikolaj-mirlikijskij-chudotvorec/"
+weight = 2
+[[menu.main]]
+identifier = "volontjoram"
+name = "Помощь"
+pre = "<i class='fa fa-heart'></i>"
+url = "/volontjoram/"
+weight = 7
+[[menu.social]]
+identifier = "vkontakte"
+pre = "<i class='fa fa-vk'></i>"
+url = "https://vk.com"
+weight = 1
 [params]
-  description = "Фестиваль творчества в честь праздника Николы Вешнего"
-  # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/cover.jpg"
-  author = "Клуб Арт'Эриа"
-  authorlocation = "Москва, Россия"
-  authorwebsite = "http://clubarteria.ru"
-  authorbio= "ПАКИ"
-  logo = "images/logo.png"
-  googleAnalyticsUserID = ""
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  # RSSLink = "http://feeds.feedburner.com/..."
-  # githubName = "nikolinden"
-  # twitterName = "clubarteria"
-  # facebookName = ""
-  # codepenName = ""
-  # linkedinName = ""
-  # stackoverflowId = ""
-  # keybaseName = ""
-  # flickrName = ""
-  # instagramName = ""
-  # email = ""
-  # pinterestName = ""
-  # googlePlusName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
-  
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "default"
-
-  [params.social]
-    twitter = "clubarteria"
-	
-  [taxonomies]
-    tag = "tags"
-	
-	
-[menu]
-
-  [[menu.main]]
-    identifier = "fest"
-    name = "Фестиваль"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/o-festivale-2/"
-    weight = -10
-
-  [[menu.main]]
-    name = "О празднике"
-  #  post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/svjatitel-nikolaj-mirlikijskij-chudotvorec/"
-    weight = -20
-
-  [[menu.main]]
-    identifier = "prog"
-    name = "Программа"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/programma/"
-    weight = -30
-
-  [[menu.main]]
-    identifier = "uchastniki"
-    name = "Участники"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/uchastniki/"
-    weight = -40
-
-  [[menu.main]]
-    identifier = "prog"
-    name = "Устроители"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/organizatory/"
-    weight = -50
-
-  [[menu.main]]
-    identifier = "volontjoram"
-    name = "Помощь"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/volontjoram/"
-    weight = -60
-
-  [[menu.main]]
-    identifier = "kontakty"
-    name = "Контакты"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/kontakty/"
-    weight = -70
-
-  [[menu.main]]
-    identifier = "history"
-    name = "История"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/history/"
-    weight = -80
-
-	
-  [[menu.social]]
-    pre = "<i class='fa fa-vk'></i>"
-    url = "https://vk.com"
-    identifier = "vkontakte"
-  
+author = "Клуб Арт'Эриа"
+authorbio = "ПАКИ"
+authorlocation = "Москва, Россия"
+authorwebsite = "http://clubarteria.ru"
+cover = "images/cover.jpg"
+description = "Фестиваль творчества в честь праздника Николы Вешнего"
+googleAnalyticsUserID = ""
+hideHUGOSupport = false
+hjsStyle = "default"
+logo = "images/logo.png"
+[params.social]
+twitter = "clubarteria"
+[taxonomies]
+tag = "tags"

@@ -3,6 +3,11 @@ title: Помощь
 author: admin
 type: page
 date: 2017-04-27 20:04:30 +0000
+menu:
+  main:
+    identifier: volontjoram
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 7
 
 ---
 Волонтерам-любителям и людям, просто любящим помогать!!! 

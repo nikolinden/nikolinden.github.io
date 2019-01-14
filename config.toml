@@ -6,52 +6,11 @@ paginate = 5
 theme = "casper"
 title = "Фестиваль Николин день"
 [[menu.main]]
-identifier = "fest"
-name = "Фестиваль"
-pre = "<i class='fa fa-heart'></i>"
-url = "/o-festivale-2/"
-weight = 1
-[[menu.main]]
-identifier = "prog"
-name = "Устроители"
-pre = "<i class='fa fa-heart'></i>"
-url = "/organizatory/"
-weight = 6
-[[menu.main]]
-identifier = "history"
-name = "История"
-pre = "<i class='fa fa-heart'></i>"
-url = "/history/"
-weight = 3
-[[menu.main]]
-identifier = "kontakty"
-name = "Контакты"
-pre = "<i class='fa fa-heart'></i>"
-url = "/kontakty/"
-weight = 8
-[[menu.main]]
-identifier = "uchastniki"
-name = "Участники"
-pre = "<i class='fa fa-heart'></i>"
-url = "/uchastniki/"
-weight = 5
-[[menu.main]]
 identifier = "prog"
 name = "Программа"
 pre = "<i class='fa fa-heart'></i>"
 url = "/programma/"
 weight = 4
-[[menu.main]]
-name = "О празднике"
-pre = "<i class='fa fa-road'></i>"
-url = "/svjatitel-nikolaj-mirlikijskij-chudotvorec/"
-weight = 2
-[[menu.main]]
-identifier = "volontjoram"
-name = "Помощь"
-pre = "<i class='fa fa-heart'></i>"
-url = "/volontjoram/"
-weight = 7
 [[menu.social]]
 identifier = "vkontakte"
 pre = "<i class='fa fa-vk'></i>"

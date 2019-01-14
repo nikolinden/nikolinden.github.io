@@ -1,13 +1,17 @@
 ---
 title: Фестиваль
 author: admin
-type: post
-date: 2017-04-22T19:47:38+00:00
-url: /o-festivale-2/
+date: 2017-04-22 19:47:38 +0000
+url: "/o-festivale-2/"
 categories:
-  - Программа фестиваля
+- Программа фестиваля
 tags:
-  - 2017
+- 2017
+menu:
+  main:
+    identifier: fest
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 1
 
 ---
 # <span style="color: #008000;">Началась подготовка к проведению фестиваля «Николин День» 2018 года!</span>

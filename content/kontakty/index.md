@@ -3,6 +3,11 @@ title: Контакты
 author: admin
 type: page
 date: 2017-04-23 00:02:36 +0000
+menu:
+  main:
+    identifier: kontakty
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 8
 
 ---
 Организатор фестиваля — Православная Ассоциация Культурных инициатив (ПАКИ):

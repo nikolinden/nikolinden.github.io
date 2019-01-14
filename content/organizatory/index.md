@@ -3,6 +3,11 @@ title: Устроители
 author: admin
 type: page
 date: 2017-04-27 20:17:12 +0000
+menu:
+  main:
+    identifier: prog
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 6
 
 ---
 Организатор фестиваля — Православная Ассоциация Культурных инициатив (ПАКИ):

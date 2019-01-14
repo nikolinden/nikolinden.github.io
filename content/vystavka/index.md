@@ -7,7 +7,7 @@ date: 2017-04-22 23:54:40 +0000
 ---
 Выставка «Новых поступлений в БУДУЩИЙ Музей Современного Христианского Искусства»!
 
-![](/uploads/Выставка-Новых-поступлений-22-мая-1-1.jpg)
+![](/images/Выставка-Новых-поступлений-22-мая-1-1.jpg)
 
 Потрясающий состав художников круга Галереи АРТ’ЭРИА — каждый передает в дар одну свою программную работу коллекционеру отцу Андрею Юревичу, предложившему идею создать в Москве, в России такой Музей — нишу для художников, обращенных помыслами к Библии и ее осмыслению, проживанию, прочувствованию. Коллекция о. Андрея по плану и должна стать основой, постоянной экспозицией Музея. Избранное коллекции о. Андрея уже экспонировалось у нас в галерее осенью 2016 года. Есть видео об этой выставке:
 
@@ -26,33 +26,31 @@ date: 2017-04-22 23:54:40 +0000
 </p>
 
 <p style="text-align: center;">
-![](/uploads/Lidija-Timoshenko.jpg)</p>
+![](/images/Lidija-Timoshenko.jpg)</p>
 
 <p style="text-align: center;">
-<a href="http://nikolinden.ru/vystavka/ekaterina-grigoreva-shilling/">Екатерина Григорьева-Шиллинг (1928-2010 г.г.)</a>
+![](/images/Katja-Grigoreva.jpg)Екатерина Григорьева-Шиллинг (1928-2010 г.г.)</a>
 </p>
 
 <p style="text-align: center;">
-![](/uploads/Katja-Grigoreva.jpg)</p>
+![](/images/Katja-Medvedeva.jpg)
 
-<p style="text-align: center;">
-![](/uploads/Katja-Medvedeva.jpg)</p>
-
-<p style="text-align: center;">
-<a href="http://nikolinden.ru/vystavka/inna-ivanova/">Инна Иванова</a>
 </p>
 
 <p style="text-align: center;">
-![](/uploads/Inna-Ivanova.jpg)</p>
+![](/images/Inna-Ivanova.jpg)
+
+Инна Иванова</a>
+</p>
 
 Юрий Рыжик
 
-![](/uploads/Ryzhik_4.jpg)
+![](/images/Ryzhik_4.jpg)
 
 Феликс Бух
 
-![](/uploads/DSC1222.jpg)
+![](/images/DSC1222.jpg)
 
 Лидия Шульгина
 
-![](/uploads/Lidija-Shulgina.jpg)
+![](/images/Lidija-Shulgina.jpg)

@@ -7,6 +7,6 @@ menu:
   main:
     identifier: uchastniki
     pre: "<i class='fa fa-heart'></i>"
-    weight: 5
+    weight: 3
 
 ---

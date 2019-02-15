@@ -12,11 +12,11 @@ menu:
 ---
 Интервью Нины Кибрик (директор Фестиваля «НИКОЛИН ДЕНЬ» и Культурного центра «Клуб АРТ’ЭРИА») Дарье Рощеня (портал ПравМир):
 
-[http://www.pravmir.ru/nikolin-den-otvazhitsya-i-napisat-obraz-svyatitelya/](http://www.pravmir.ru/nikolin-den-otvazhitsya-i-napisat-obraz-svyatitelya/)
+[http://www.pravmir.ru/nikolin-den-otvazhitsya-i-napisat-obraz-svyatitelya/](http://www.pravmir.ru/nikolin-den-otvazhitsya-i-napisat-obraz-svyatitelya/ "http://www.pravmir.ru/nikolin-den-otvazhitsya-i-napisat-obraz-svyatitelya/")
 
 Статья о фестивале 2017:
 
-[Николин день статья](http://nikolinden.ru/wp-content/uploads/2017/05/Nikolin-den-statja.pdf)
+[Николин день статья](Nikolin-den-statja.pdf "Николин день статья")
 
 Телеканал «Союз» о Фестивале «Николин день» 2017:
 
@@ -32,16 +32,8 @@ menu:
 
 [http://www.freeshows.ru/festivals/3568](http://www.freeshows.ru/festivals/3568 "http://www.freeshows.ru/festivals/3568")
 
-<blockquote class="wp-embedded-content" data-secret="CRcE2b76As">
-<a href="http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/">Фестиваль «Николин День» / Москва / 22.05.2017</a>
-</blockquote>
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/embed/#?secret=CRcE2b76As" data-secret="CRcE2b76As" width="525" height="296" title="Вставленная запись WordPress" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<a href="[http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/](http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/ "http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/")">[Фестиваль «Николин День» / Москва / 22.05.2017]()</a>
 
 [http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/](http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/ "http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/")
 
 [http://www.mskagency.ru/materials/2667529](http://www.mskagency.ru/materials/2667529 "http://www.mskagency.ru/materials/2667529")
-
- 
-
- 

@@ -21,26 +21,22 @@ date: 2017-04-22 23:54:40 +0000
 
 Весь этот Фестиваль затеян нами как созидательно-благотворительная акция в поддержку проекта создания этого Музея и Культурного центра.
 
-<p style="text-align: center;">
-ПЕРСОНАЛИИ
-</p>
+ПЕРСОНАЛИИ  
 
-<p style="text-align: center;">
-![](/images/Lidija-Timoshenko.jpg)</p>
+![](/images/Lidija-Timoshenko.jpg)
 
-<p style="text-align: center;">
-![](/images/Katja-Grigoreva.jpg)Екатерина Григорьева-Шиллинг (1928-2010 г.г.)</a>
-</p>
 
-<p style="text-align: center;">
+![](/images/Katja-Grigoreva.jpg)Екатерина Григорьева-Шиллинг (1928-2010 г.г.) 
+
+
 ![](/images/Katja-Medvedeva.jpg)
 
-Катя Медведева</p>
+Катя Медведева
 
-<p style="text-align: center;">
+
 ![](/images/Inna-Ivanova.jpg)
 
-Инна Иванова</p>
+Инна Иванова
 
 Юрий Рыжик
 

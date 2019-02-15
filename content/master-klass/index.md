@@ -9,13 +9,7 @@ date: 2017-04-27 20:25:21 +0000
 
 Его провел легендарный отец Дмитрий Котов — диакон храма в Долгопрудном, сам мозаичист, искусствовед по образованию, преподающий мозаику и живопись детям уже более 40 лет. Его Мозаичная школа в городе Лобня — это настоящее чудо и источник чудес. Дети от 5 лет под его руководством и водительством делают законченные шедевры, сопоставимые с высочайшими образцами мозаик от античности, до Равенны… Чистый и простодушный рисунок сочетается в их работах с изощренной цветовой гаммой и разнообразием фактур.
 
-<blockquote class="wp-embedded-content" data-secret="FG2U4Q50NC">
-<p>
-<a href="http://www.pravmir.ru/diakon-iz-korrektsionnoy-shkolyi-ya-s-nimi-nichego-ne-boyus/">Диакон из коррекционной школы: “Я с ними ничего не боюсь”</a>
-</p>
-</blockquote>
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://www.pravmir.ru/diakon-iz-korrektsionnoy-shkolyi-ya-s-nimi-nichego-ne-boyus/embed/#?secret=FG2U4Q50NC" data-secret="FG2U4Q50NC" width="525" height="296" title="“Диакон из коррекционной школы: “Я с ними ничего не боюсь”” — Православие и мир" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<a href="http://www.pravmir.ru/diakon-iz-korrektsionnoy-shkolyi-ya-s-nimi-nichego-ne-boyus/">Диакон из коррекционной школы: “Я с ними ничего не боюсь”</a> 
 
 Итак, 22 мая в реальном времени **на фоне потрясающего концерта, под живую музыку все желающие приняли участие в рождении мозаики** или хотя бы наблюдали как это происходит. Центральный остров Парка «КРАСНАЯ ПРЕСНЯ» — посреди каналов, кишащих утками, и горбатых мостиков… Детские эскизы наполнились мозаичным содержанием.
 

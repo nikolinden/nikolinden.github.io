@@ -32,7 +32,7 @@ menu:
 
 [http://www.freeshows.ru/festivals/3568](http://www.freeshows.ru/festivals/3568 "http://www.freeshows.ru/festivals/3568")
 
-<a href="[http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/](http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/ "http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/")">[Фестиваль «Николин День» / Москва / 22.05.2017]()</a>
+[http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/](http://svoeradio.fm/event/vezhlivyj-otkaz-moskva-22-01-1900/ "Фестиваль «Николин День» / Москва / 22.05.2017")
 
 [http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/](http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/ "http://www.tele.ru/billboard/sobytiya-i-mesta/festival-nikolin-den/")
 

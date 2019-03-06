@@ -50,11 +50,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/wp-content
-  label: Wp content
-  create: all
-  match: "**/*"
-- type: directory
   path: content/svjatitel-nikolaj-mirlikijskij-chudotvorec
   label: Svjatitel nikolaj mirlikijskij chudotvorec
   create: all

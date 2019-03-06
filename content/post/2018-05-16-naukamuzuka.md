@@ -23,4 +23,6 @@ tags:
 
 [view](https://drive.google.com/file/d/1yz73TiM-M1UaD3zpfFb9IvLHyb0Huhk6/view "видео")
 
-Вход всем добрым людям — свободный!<br /> <a href="https://maps.google.com/?q=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,+%D0%9C%D0%B0%D0%BD%D1%82%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+5&entry=gmail&source=g" target="_blank" rel="noopener">Москва, Мантулинская улица 5</a>_
+Вход всем добрым людям — свободный!
+
+<a href="https://maps.google.com/?q=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,+%D0%9C%D0%B0%D0%BD%D1%82%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+5" target="_blank" rel="noopener">Москва, Мантулинская улица 5</a>_

@@ -5,11 +5,9 @@ type: page
 date: 2018-02-08 11:18:47 +0000
 menu:
   main:
-    identifier: prog
-    pre: "<i class='fa fa-heart'></i>"
     weight: 1
 
 ---
-[Программа фестиваля 2018 года](/programma/festival-2018/ "Программа 2018 года")
+[Программа фестиваля 2018 года](/festival-2018/ "Программа 2018 года")
 
-[Программа 2017 года](/programma/programma-2017-goda/ "Программа 2017 года")
+[Программа 2017 года](/programma-2017-goda/ "Программа 2017 года")

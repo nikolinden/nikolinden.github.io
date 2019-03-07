@@ -2,14 +2,9 @@ Copyright = "All rights reserved - 2017-2019"
 baseURL = "https://nikolinden.netlify.com/"
 canonifyurls = true
 languageCode = "ru-RU"
-paginate = 5
+paginate = 8
 theme = "casper"
 title = "Фестиваль Николин день"
-[[menu.social]]
-identifier = "vkontakte"
-pre = "<i class='fa fa-vk'></i>"
-url = "https://vk.com"
-weight = 1
 [params]
 author = "Клуб Арт'Эриа"
 authorbio = "ПАКИ"
@@ -21,7 +16,12 @@ googleAnalyticsUserID = ""
 hideHUGOSupport = false
 hjsStyle = "default"
 logo = "images/logo.png"
-[params.social]
-twitter = "clubarteria"
 [taxonomies]
 tag = "tags"
+[params.social]
+twitter = "clubarteria"
+[[menu.social]]
+identifier = "vkontakte"
+pre = "<i class='fa fa-vk'></i>"
+url = "https://vk.com"
+weight = 1

@@ -5,7 +5,6 @@ type: page
 date: 2017-05-10 00:21:33 +0000
 menu:
   main:
-    pre: "<i class='fa fa-road'></i>"
     weight: 3
 
 ---

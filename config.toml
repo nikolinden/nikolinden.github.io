@@ -5,12 +5,6 @@ languageCode = "ru-RU"
 paginate = 5
 theme = "casper"
 title = "Фестиваль Николин день"
-[[menu.main]]
-identifier = "prog"
-name = "Программа"
-pre = "<i class='fa fa-heart'></i>"
-url = "/programma/"
-weight = 2
 [[menu.social]]
 identifier = "vkontakte"
 pre = "<i class='fa fa-vk'></i>"

@@ -3,6 +3,11 @@ title: Программа
 author: Нина Кибрик
 type: page
 date: 2018-02-08 11:18:47 +0000
+menu:
+  main:
+    identifier: prog
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 1
 
 ---
 [Программа фестиваля 2018 года](/programma/festival-2018/ "Программа 2018 года")

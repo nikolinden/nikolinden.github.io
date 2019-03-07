@@ -7,7 +7,7 @@ menu:
   main:
     identifier: volontjoram
     pre: "<i class='fa fa-heart'></i>"
-    weight: 7
+    weight: 5
 
 ---
 Волонтерам-любителям и людям, просто любящим помогать!!!

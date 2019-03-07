@@ -7,7 +7,7 @@ menu:
   main:
     identifier: kontakty
     pre: "<i class='fa fa-heart'></i>"
-    weight: 8
+    weight: 6
 
 ---
 Организатор фестиваля — Православная Ассоциация Культурных инициатив (ПАКИ):

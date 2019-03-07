@@ -12,9 +12,9 @@ menu:
 ---
 Организатор фестиваля — Православная Ассоциация Культурных инициатив (ПАКИ):
 
-* Нина Кибрик (художник, директор Культурного центра «Клуб АРТ’ЭРИА» при храме Свт. Николая Чудотворца на Трёх горах, заместитель председателя ПАКИ) — <a href="mailto:ninakibrik@gmail.com" target="_blank" rel="noopener noreferrer">ninakibrik@gmail.com</a>, 8-962-17-888-70, 8-985-986-41-97
+* Нина Кибрик (художник, директор Культурного центра «Клуб АРТ’ЭРИА» при храме Свт. Николая Чудотворца на Трёх горах, заместитель председателя ПАКИ) — <a href="mailto:ninakibrik@gmail.com" target="_blank" rel="noopener noreferrer">ninakibrik@gmail.com</a>, 8-926-17-888-70, 8-985-986-41-97
 * Анастасия Сирота (музыкант, педагог, второй заместитель председателя ПАКИ) 8-916-113-31-22
 
-Сайт парка «Красная Пресня» с контактами и схемой проезда: \[<a href="http://p-kp.ru/" target="_blank" rel="noopener noreferrer">http://p-kp.ru/</a>\](<a href="http://p-kp.ru/" target="_blank" rel="noopener noreferrer">http://p-kp.ru/</a>)
+Сайт парка «Красная Пресня» с контактами и схемой проезда: [http://p-kp.ru/](http://p-kp.ru/)
 
 ![](/images/Karta-festivalja.jpg)
